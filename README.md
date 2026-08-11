@@ -11,7 +11,7 @@ A confeitaria Sempre doce deseja expandir sua atuação criando um site para ven
 - Nome completo
 - Telefone
 - E-mail
-- Endereço
+- Endereço (logradouro, bairro, estado, cep, cidade)
 
 **RF02**: O Sistema deve permitir que o clitente envie uma mensagem com as informações do seu pedido, a mensagem será enviada via formulário do sistema preenchendo os seguintes campos:
 
@@ -19,4 +19,5 @@ A confeitaria Sempre doce deseja expandir sua atuação criando um site para ven
 - E-mail
 - Telefone
 - Endereço
+- Texto da Mensagem
 - Texto da Mensagem
