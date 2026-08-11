@@ -21,3 +21,6 @@ A confeitaria Sempre doce deseja expandir sua atuação criando um site para ven
 - Endereço
 - Texto da Mensagem
 - Texto da Mensagem
+
+## Modelagem Conceitual
+![] (image.png)
